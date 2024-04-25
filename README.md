@@ -6,4 +6,4 @@ estou aprendendo a criar sits e agora vou gerenciar meus repositorios
 oi mundo 
 
 
-<a href="https://pablobretan.github.io/meu-site/">
+<a href="https://pablobretan.github.io/html-css/exercicios/ex 01">executar o exercicio 001</a>
